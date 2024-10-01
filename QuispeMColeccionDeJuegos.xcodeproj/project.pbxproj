@@ -14,6 +14,7 @@
 		63A5179B2CAB59A600EC8425 /* QuispeMColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 63A517992CAB59A600EC8425 /* QuispeMColeccionDeJuegos.xcdatamodeld */; };
 		63A5179D2CAB59A800EC8425 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63A5179C2CAB59A800EC8425 /* Assets.xcassets */; };
 		63A517A02CAB59A800EC8425 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A5179E2CAB59A800EC8425 /* LaunchScreen.storyboard */; };
+		63A517A82CAB650F00EC8425 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A517A72CAB650F00EC8425 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		63A5179C2CAB59A800EC8425 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63A5179F2CAB59A800EC8425 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63A517A12CAB59A800EC8425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63A517A72CAB650F00EC8425 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				63A517922CAB59A600EC8425 /* SceneDelegate.swift */,
 				63A517942CAB59A600EC8425 /* ViewController.swift */,
 				63A517962CAB59A600EC8425 /* Main.storyboard */,
+				63A517A72CAB650F00EC8425 /* JuegosViewController.swift */,
 				63A5179C2CAB59A800EC8425 /* Assets.xcassets */,
 				63A5179E2CAB59A800EC8425 /* LaunchScreen.storyboard */,
 				63A517A12CAB59A800EC8425 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63A517A82CAB650F00EC8425 /* JuegosViewController.swift in Sources */,
 				63A517952CAB59A600EC8425 /* ViewController.swift in Sources */,
 				63A517912CAB59A600EC8425 /* AppDelegate.swift in Sources */,
 				63A5179B2CAB59A600EC8425 /* QuispeMColeccionDeJuegos.xcdatamodeld in Sources */,
